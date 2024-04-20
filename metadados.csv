@@ -61,3 +61,26 @@
 060.JPEG;livro;protetor solar;capacete;;;varanda;externo-escuro
 061.JPEG;capacete;protetor solar;caneca;som;;varanda;externo-escuro
 062.JPEG;livro;capacete;protetor solar;caneca;;varanda;externo-escuro
+063.JPEG;colher;caneta;som;pilha;caneca;chao;interno-claro
+064.JPEG;capacete;livro;protetor solar;;;chao;interno-claro
+065.JPEG;protetor solar;garfo;caneta;capacete;;preto;interno-claro
+066.JPEG;caneca;caneta;som;;;chao;interno-escuro
+067.JPEG;caneca;livro;protetor solar;garfo;;preto;interno-escuro
+068.JPEG;faca;garfo;som;pilha;;preto;interno-escuro
+069.JPEG;faca;pilha;garfo;protetor solar;;chao;interno-escuro
+070.JPEG;garfo;capacete;livro;caneca;;preto;interno-claro
+071.JPEG;capacete;protetor solar;livro;;;chao;interno-escuro
+072.JPEG;som;caneca;caneta;garfo;pilha;chao;interno-escuro
+073.JPEG;livro;garfo;capacete;caneca;;preto;interno-escuro
+074.JPEG;livro;garfo;colher;caneta;caneca;preto;interno-escuro
+075.JPEG;faca;pilha;garfo;colher;som;preto;interno-escuro
+076.JPEG;garfo;protetor solar;capacete;caneta;;preto;interno-claro
+077.JPEG;protetor solar;pilha;livro;colher;;chao;interno-escuro
+078.JPEG;colher;protetor solar;garfo;som;;chao;interno-claro
+079.JPEG;colher;caneta;pilha;faca;;chao;interno-claro
+080.JPEG;faca;protetor solar;pilha;som;colher;preto;interno-claro
+081.JPEG;colher;caneta;pilha;faca;;chao;interno-claro
+082.JPEG;colher;caneta;pilha;faca;garfo;preto;interno-escuro
+083.JPEG;garfo;caneta;pilha;faca;;chao;interno-escuro
+084.JPEG;protetor solar;garfo;livro;som;;chao;interno-claro
+085.JPEG;faca;garfo;protetor solar;caneta;som;preto;interno-claro
