@@ -1,11 +1,11 @@
-﻿img ;classe_1;classe_2;classe_3;classe_4;classe_5;fundo;iluminacao
-001.JPEG;garfo;pilha;faca;colher;;sofa;noite-claro
-002.JPEG;som;livro;capacete;;;sofa;noite-claro
-003.JPEG;pilha;caneta;livro;capacete;;chao;noite-claro
-004.JPEG;som;livro;capacete;;;sofa;noite-escuro
-005.JPEG;faca;garfo;capacete;protetor solar;;bancada;noite-claro
-006.JPEG;garfo;pilha;faca;colher;;sofa;noite-escuro
-007.JPEG;garfo;caneta;caneca;colher;som;sofa;noite-claro
-008.JPEG;protetor solar;livro;caneca;;;sofa;noite-escuro
-009.JPEG;protetor solar;livro;caneca;;;sofa;noite-claro
-010.JPEG;garfo;caneta;caneca;colher;som;sofa;noite-escuro
+﻿img;classe_1;classe_2;classe_3;classe_4;classe_5;fundo;iluminacao
+001.JPEG;garfo;pilha;faca;colher;;sofa;interno-claro
+002.JPEG;som;livro;capacete;;;sofa;interno-claro
+003.JPEG;pilha;caneta;livro;capacete;;chao;interno-claro
+004.JPEG;som;livro;capacete;;;sofa;interno-escuro
+005.JPEG;faca;garfo;capacete;protetor solar;;bancada;interno-claro
+006.JPEG;garfo;pilha;faca;colher;;sofa;interno-escuro
+007.JPEG;garfo;caneta;caneca;colher;som;sofa;interno-claro
+008.JPEG;protetor solar;livro;caneca;;;sofa;interno-escuro
+009.JPEG;protetor solar;livro;caneca;;;sofa;interno-claro
+010.JPEG;garfo;caneta;caneca;colher;som;sofa;interno-escuro
