@@ -84,3 +84,27 @@
 083.JPEG;garfo;caneta;pilha;faca;;chao;interno-escuro
 084.JPEG;protetor solar;garfo;livro;som;;chao;interno-claro
 085.JPEG;faca;garfo;protetor solar;caneta;som;preto;interno-claro
+086.JPEG;faca;pilha;caneta;caneca;protetor solar;varanda;externo-claro
+087.JPEG;faca;garfo;livro;som;;varanda;externo-claro
+088.JPEG;capacete;pilha;protetor solar;faca;;varanda;externo-claro
+089.JPEG;pilha;caneca;colher;faca;;varanda;externo-claro
+090.JPEG;garfo;livro;faca;caneca;caneta;varanda;externo-claro
+091.JPEG;garfo;protetor solar;caneca;faca;livro;varanda;interno-escuro
+092.JPEG;livro;protetor solar;colher;;;sofa;interno-escuro
+093.JPEG;capacete;protetor solar;pilha;som;;varanda;interno-escuro
+094.JPEG;caneca;pilha;faca;colher;caneta;varanda;interno-claro
+095.JPEG;capacete;pilha;protetor solar;;;sofa;interno-claro
+096.JPEG;capacete;colher;protetor solar;;;sofa;interno-escuro
+097.JPEG;colher;faca;garfo;caneta;;sofa;interno-claro
+098.JPEG;caneca;livro;protetor solar;;;varanda;interno-claro
+099.JPEG;capacete;livro;pilha;;;sofa;interno-claro
+100.JPEG;garfo;colher;faca;livro;;varanda;interno-escuro
+101.JPEG;caneca;garfo;livro;caneta;colher;varanda;interno-claro
+102.JPEG;garfo;colher;som;faca;;sofa;interno-escuro
+103.JPEG;som;livro;pilha;caneca;;sofa;interno-claro
+104.JPEG;protetor solar;capacete;pilha;som;;varanda;interno-claro
+105.JPEG;caneta;faca;colher;pilha;;sofa;interno-escuro
+106.JPEG;protetor solar;caneca;caneta;som;pilha;varanda;interno-escuro
+107.JPEG;livro;som;pilha;caneca;;sofa;interno-escuro
+108.JPEG;protetor solar;pilha;colher;caneta;capacete;varanda;interno-claro
+109.JPEG;som;faca;colher;caneta;;sofa;interno-claro
