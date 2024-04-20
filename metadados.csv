@@ -3,9 +3,61 @@
 002.JPEG;som;livro;capacete;;;sofa;interno-claro
 003.JPEG;pilha;caneta;livro;capacete;;chao;interno-claro
 004.JPEG;som;livro;capacete;;;sofa;interno-escuro
-005.JPEG;faca;garfo;capacete;protetor solar;;bancada;interno-claro
+005.JPEG;faca;garfo;capacete;protetor solar;;preto;interno-claro
 006.JPEG;garfo;pilha;faca;colher;;sofa;interno-escuro
 007.JPEG;garfo;caneta;caneca;colher;som;sofa;interno-claro
 008.JPEG;protetor solar;livro;caneca;;;sofa;interno-escuro
 009.JPEG;protetor solar;livro;caneca;;;sofa;interno-claro
 010.JPEG;garfo;caneta;caneca;colher;som;sofa;interno-escuro
+011.JPEG;caneta;protetor solar;caneca;;;sofa;externo-claro
+012.JPEG;capacete;caneta;pilha;garfo;;varanda;externo-claro
+013.JPEG;garfo;pilha;caneca;;;sofa;externo-claro
+014.JPEG;colher;capacete;faca;garfo;;chao;externo-claro
+015.JPEG;caneta;faca;colher;garfo;;preto;externo-claro
+016.JPEG;garfo;faca;pilha;caneta;;preto;externo-escuro
+017.JPEG;protetor solar;pilha;caneca;caneta;;chao;externo-escuro
+018.JPEG;livro;som;colher;;;chao;externo-claro
+019.JPEG;caneta;caneca;protetor solar;livro;pilha;preto;externo-escuro
+020.JPEG;caneta;faca;garfo;colher;;preto;externo-claro
+021.JPEG;caneta;faca;livro;pilha;;preto;externo-escuro
+022.JPEG;som;pilha;faca;colher;;sofa;externo-escuro
+023.JPEG;caneta;pilha;livro;;;preto;externo-claro
+024.JPEG;faca;caneta;som;;;varanda;externo-escuro
+025.JPEG;caneta;som;capacete;;;preto;externo-claro
+026.JPEG;som;capacete;caneca;colher;;preto;externo-escuro
+027.JPEG;livro;capacete;protetor solar;faca;som;sofa;externo-escuro
+028.JPEG;pilha;caneca;protetor solar;livro;;preto;externo-escuro
+029.JPEG;caneta;colher;capacete;;;preto;externo-claro
+030.JPEG;garfo;pilha;caneta;caneca;;sofa;externo-escuro
+031.JPEG;livro;caneca;protetor solar;caneta;;chao;externo-escuro
+032.JPEG;garfo;som;caneta;capacete;;preto;externo-escuro
+033.JPEG;caneta;caneca;livro;pilha;;preto;externo-claro
+034.JPEG;capacete;livro;som;;;sofa;externo-escuro
+035.JPEG;capacete;som;colher;faca;;sofa;externo-escuro
+036.JPEG;som;capacete;faca;pilha;;chao;externo-escuro
+037.JPEG;garfo;capacete;faca;pilha;;chao;externo-claro
+038.JPEG;protetor solar;caneta;colher;faca;caneca;chao;externo-claro
+039.JPEG;capacete;som;colher;faca;;sofa;externo-escuro
+040.JPEG;colher;garfo;pilha;caneta;;varanda;externo-escuro
+041.JPEG;caneca;faca;som;;;varanda;externo-escuro
+042.JPEG;colher;garfo;caneta;som;;varanda;externo-escuro
+043.JPEG;som;livro;colher;;;preto;externo-escuro
+044.JPEG;colher;garfo;caneca;protetor solar;caneta;chao;externo-escuro
+045.JPEG;faca;pilha;som;colher;caneca;sofa;externo-escuro
+046.JPEG;livro;protetor solar;caneca;;;varanda;externo-escuro
+047.JPEG;livro;caneca;caneta;protetor solar;;preto;externo-claro
+048.JPEG;capacete;caneta;pilha;faca;;varanda;externo-escuro
+049.JPEG;caneta;livro;pilha;;;preto;externo-claro
+050.JPEG;caneta;faca;colher;som;;preto;externo-claro
+051.JPEG;colher;caneca;faca;som;;chao;externo-escuro
+052.JPEG;faca;garfo;caneta;;;preto;externo-escuro
+053.JPEG;capacete;som;faca;;;chao;externo-escuro
+054.JPEG;caneca;pilha;livro;;;preto;externo-escuro
+055.JPEG;som;colher;livro;capacete;;preto;externo-escuro
+056.JPEG;colher;garfo;caneta;faca;;chao;externo-escuro
+057.JPEG;som;caneca;colher;livro;;chao;externo-claro
+058.JPEG;garfo;colher;caneta;;;preto;externo-escuro
+059.JPEG;protetor solar;caneca;caneta;colher;;chao;externo-claro
+060.JPEG;livro;protetor solar;capacete;;;varanda;externo-escuro
+061.JPEG;capacete;protetor solar;caneca;som;;varanda;externo-escuro
+062.JPEG;livro;capacete;protetor solar;caneca;;varanda;externo-escuro
