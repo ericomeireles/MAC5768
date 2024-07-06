@@ -1,0 +1,5 @@
+img,path_contorno,path_origin,is_good
+088.JPEG,..\data_EP3\teste\augmentedDataset\exponencial\gaussian_canny\088.JPEG,..\data_EP2/augmentedDataset\exponencial\088.JPEG,False
+088.JPEG,..\data_EP3\teste\augmentedDataset\logaritmo\gaussian_canny\088.JPEG,..\data_EP2/augmentedDataset\logaritmo\088.JPEG,False
+088.JPEG,..\data_EP3\teste\normalizedDataset\augmentedDataset\exponencial\gaussian_canny\088.JPEG,..\data_EP2/normalizedDataset\augmentedDataset\exponencial\088.JPEG,False
+088.JPEG,..\data_EP3\teste\normalizedDataset\augmentedDataset\logaritmo\gaussian_canny\088.JPEG,..\data_EP2/normalizedDataset\augmentedDataset\logaritmo\088.JPEG,
